@@ -1,0 +1,23 @@
+{
+  "name": "reqid",
+  "version": "1.0.0",
+  "description": "an unique code generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gandryeanb/uniqueID.git"
+  },
+  "author": "Gusti Andryean Budiman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gandryeanb/uniqueID/issues"
+  },
+  "homepage": "https://github.com/Gandryeanb/uniqueID#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
