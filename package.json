@@ -1,7 +1,7 @@
 {
   "name": "reqid",
-  "version": "1.0.0",
-  "description": "an unique code generator",
+  "version": "1.0.1",
+  "description": "an request-id generator",
   "main": "index.js",
   "scripts": {
     "test": "mocha index.test.js"
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Gandryeanb/uniqueID/issues"
   },
-  "homepage": "https://github.com/Gandryeanb/uniqueID#readme",
+  "homepage": "https://github.com/Gandryeanb/uniqueID#readme.md",
   "dependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.2"
